@@ -175,9 +175,10 @@ font-size: 12px;
 line-height: 25px;
 line-height: 25px;
 }
+
 .btnprimary2{
-    margin-left: 25px;
-    padding: 10px 65px;
+    margin-left: 50px;
+    padding: 10px 75px;
     position: absolute;
     top: 90%;
     left: 35%;
@@ -206,7 +207,7 @@ line-height: 25px;
 .subp01{
     position: absolute;
     display: flex;
-    padding-left: 150px;
+    padding-left: 130px;
     padding-top: 100px;    
 }
 .header{
@@ -272,7 +273,7 @@ line-height: 25px;
     align-items: center;
 }
 .btnprimary3{
-    margin-left: 25px;
+    margin-left: 55px;
     padding: 10px 65px;
     background-color: #2B8C62;
     color: #EDF6F8;
