@@ -4,6 +4,28 @@
 }
 body{
     font-family: myFont;
+    width: 1260px;
+}
+.chr{
+    display: flex;
+}
+.chr1{
+    display: flex;
+}
+.c1hr1{
+    background-color: #DC8F2D;
+    width: 3px;
+    height: 20px;
+    opacity: 30%;
+    border-radius: 5px;
+}
+
+.c1hr{
+    background-color: #8965B8;
+    width: 3px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
 }
 hr{
     background-color: #00495A;
@@ -13,11 +35,12 @@ hr{
 }
 .body{
     width: 1260px;
+    margin: 0px;
 }
 .navbar {
     display: flex;
     width: 100%;
-    height: 60px;
+    height: 40px;
     margin-top: 15px;
 }
 .navicon{
@@ -66,23 +89,24 @@ hr{
     font-size: 10px;
     color: #00495A;
     padding-top: 5px;
-    line-height: 25px; 
+    line-height: 35px; 
 }
 .container1{
     position: relative;
     text-align: left;
+    align-items: center;
     display: flex;
-    
+    width: 100%;
 }
 .contleft{
     position: absolute;
   top: 188px;
-  left: 70px;
+  left: 120px;
 }
 .contright{
     position: absolute;
     top: 88px;
-    left: 532px;
+    left: 535px;
     align-items: center;
 }
 .container2 {
@@ -90,6 +114,7 @@ hr{
     text-align: center;
     color: white;
     top: 721px;
+    width: 100%;
 }
 .centered {
     position: absolute;
@@ -151,7 +176,7 @@ line-height: 25px;
 line-height: 25px;
 }
 .btnprimary2{
-    margin-left: 20px;
+    margin-left: 25px;
     padding: 10px 65px;
     position: absolute;
     top: 90%;
@@ -224,6 +249,7 @@ line-height: 25px;
 .list1{
     font-size: 10px;
     color: #005a3c;
+    line-height: 35px;
 }
 .container3{
     position: relative;
@@ -256,7 +282,7 @@ line-height: 25px;
 }
 .btn{
     margin-left: 90px;
-    margin-top: 455px;
+    margin-top: 500px;
     padding: 2px 45px;
     background-color: #c8e9da;
     color: #2B8C62;
@@ -318,7 +344,7 @@ line-height: 25px;
 .hr002{
     background-color: #2B8C62;
     width: 3px;
-    height: 30px;
+    height: 35px;
     margin: 5px;
     border-radius: 5px;
 }
