@@ -44,13 +44,13 @@ hr{
     margin-top: 15px;
 }
 .navicon{
-    margin: 25px;
+    margin-left: 25px;
     display: flex;
 }
 .nvtxt{
     color: #00495A;
-    font-size: 14px;
-    padding-top: 5px;
+    font-size: 12px;
+    padding-top: 2px;
     padding-right: 5px;
 }
 .navbtn{
@@ -256,19 +256,19 @@ line-height: 25px;
     position: relative;
     text-align: left;
     display: flex;
-    height: 740px;
+    height: 600px;
     top: 1525px;
     background-color: #DDEDE6;
     
 }
 .contleft1{
     position: absolute;
-  top: 188px;
+  top: 130px;
   left: 70px;
 }
 .contright1{
     position: absolute;
-    top: 88px;
+    top: 30px;
     left: 482px;
     align-items: center;
 }
@@ -283,7 +283,7 @@ line-height: 25px;
 }
 .btn{
     margin-left: 90px;
-    margin-top: 500px;
+    margin-top: 45px;
     padding: 2px 45px;
     background-color: #c8e9da;
     color: #2B8C62;
@@ -298,7 +298,7 @@ line-height: 25px;
     position: relative;
     text-align: left;
     display: flex;
-    height: 700px;
+    height: 600px;
     top: 1525px;
     background-color: #F9E8E8;
 }
