@@ -97,6 +97,14 @@ hr{
     align-items: center;
     display: flex;
     width: 100%;
+    background-color: #008EB7;
+    
+    
+}
+#grad{
+    background-image: linear-gradient(180deg, #b4e1ed, #008EB7)
+    
+
 }
 .contleft{
     position: absolute;
@@ -105,9 +113,23 @@ hr{
 }
 .contright{
     position: absolute;
+    align-items: center;
+}
+.right1a{
+    position: absolute;
+    left: 450px;
+    top: 20px;
+}
+.right1b{
+    position: absolute;
+    top: 350px;
+    left: 320px;
+
+}
+.right2{
+    position: absolute;
     top: 88px;
     left: 535px;
-    align-items: center;
 }
 .container2 {
     position: relative;
@@ -126,7 +148,7 @@ hr{
     position: absolute;
     text-align: center;
     color: white;
-    top: 1281px;
+    top: 1230px;
     padding: 105px 70px 91px 70px;
 }
 .parent1{
