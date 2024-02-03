@@ -97,7 +97,6 @@ hr{
     align-items: center;
     display: flex;
     width: 100%;
-    background-color: #c8d8e9;
 }
 .contleft{
     position: absolute;
@@ -109,9 +108,6 @@ hr{
     top: 88px;
     left: 535px;
     align-items: center;
-}
-.right1{
-    position: absolute;
 }
 .container2 {
     position: relative;
